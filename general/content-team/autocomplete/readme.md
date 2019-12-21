@@ -12,10 +12,12 @@
 2. Search Bar should be there in home page and also in other pages
 3. Icons - Animations
 4. each row in autocomplete for 1. Advanced search 2. Documentation 3. Full Text search (Assuming autocomplete is object search) 
- https://www.freshconsulting.com/autocomplete-benefits-ux-best-practices/
- http://ui-patterns.com/patterns/Autocomplete
- https://baymard.com/blog/autocomplete-design
- https://blog.algolia.com/search-autocomplete-on-mobile/
+
+*References:*
+ - https://www.freshconsulting.com/autocomplete-benefits-ux-best-practices/
+ - http://ui-patterns.com/patterns/Autocomplete
+ - https://baymard.com/blog/autocomplete-design
+ - https://blog.algolia.com/search-autocomplete-on-mobile/
 
 this is important 
 
